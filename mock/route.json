@@ -1,0 +1,15 @@
+{
+  "/api/order": "/order",
+  "/api/goodscar": "/goodscar",
+  "/api/detailslist": "/detailslist",
+  "/api/detailsrj": "/detailsrj",
+  "/api/detailspl": "/detailspl",
+  "/api/indexlist": "/indexlist",
+  "/api/categorylist": "/categorylist",
+  "/api/artdetails": "/artdetails",
+  "/api/collection": "/collection",
+  "/api/grabfresh": "/grabfresh",
+  "/api/address": "/address",
+  "/api/scheduleft": "/scheduleft"
+
+}

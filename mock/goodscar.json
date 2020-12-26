@@ -1,0 +1,41 @@
+{
+
+  "result": [
+    {
+      "good": {
+        "gid": "001",
+        "gname": "松林放牛娃牌自种农家无农残小白菜",
+        "gprice": "10.00",
+        "gweight": "500g",
+        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+      },
+      "cid": "001",
+      "uid": "001",
+      "cnum": "1"
+    },
+    {
+      "good": {
+        "gid": "002",
+        "gname": "松林放牛娃牌自种农家无农残小白菜",
+        "gprice": "10.00",
+        "gweight": "500g",
+        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+      },
+      "cid": "002",
+      "uid": "002",
+      "cnum": "2"
+    },
+    {
+      "good": {
+        "gid": "003",
+        "gname": "松林放牛娃牌自种农家无农残小白菜",
+        "gprice": "10.00",
+        "gweight": "500g",
+        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+      },
+      "cid": "003",
+      "uid": "003",
+      "cnum": "3"
+    }
+  ]
+}

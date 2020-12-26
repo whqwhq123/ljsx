@@ -1,0 +1,299 @@
+{
+    "result": [
+        {
+            "oid": "001",
+            "shopname": "小哥农产品",
+            "state": "0",
+            "goods": [
+                {
+                    "good": {
+                        "gid": "001",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid": "001",
+                    "uid": "001",
+                    "cnum": "1"
+                },
+                {
+                    "good": {
+                        "gid": "002",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid":"002",
+                    "uid":"002",
+                    "cnum":"4"
+    
+                },
+                {
+                    "good": {
+                        "gid": "003",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid":"003",
+                    "uid":"003",
+                    "cnum":"1"
+        
+                },
+                {
+                    "good":{
+                        "gid":"004",
+                        "gname":"松林放牛娃牌自种农家无农残小白菜",
+                        "gprice":"10.00",
+                        "gweight":"500g",
+                        "gpicture":"https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid":"004",
+                    "uid":"004",
+                    "cnum":"1"
+        
+                },
+                {
+                    "good":{
+                        "gid":"005",
+                        "gname":"松林放牛娃牌自种农家无农残小白菜",
+                        "gprice":"10.00",
+                        "gweight":"500g",
+                        "gpicture":"https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid":"005",
+                    "uid":"005",
+                    "cnum":"1"
+        
+                },
+                {
+                    "good":{
+                        "gid":"006",
+                        "gname":"松林放牛娃牌自种农家无农残小白菜",
+                        "gprice":"10.00",
+                        "gweight":"500g",
+                        "gpicture":"https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid":"006",
+                    "uid":"006",
+                    "cnum":"1"
+        
+                }
+            ],
+            "oprice":"100",
+            "otime":"2020.10.25",
+            "goodPrice":"90",
+            "packFee":"10",
+            "deliFee":"10",
+            "isNewUser":"1",
+            "orderNum":"QX1314435321"
+        },
+        {
+            "oid": "002",
+            "shopname": "小哥农产品",
+            "state": "1",
+            "goods": [
+                {
+                    "good": {
+                        "gid": "001",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+
+
+                    "cid":"003",
+                    "uid":"003",
+                    "cnum":"3"
+        
+
+                },
+                {
+                    "good": {
+                        "gid": "002",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid": "001",
+                    "uid": "001",
+                    "cnum": "1"
+                },
+                {
+                    "good": {
+                        "gid": "003",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid": "001",
+                    "uid": "001",
+                    "cnum": "1"
+                }
+            ],
+            "otime": "2020.10.21",
+            "oprice": "80",
+            "goodPrice": "70",
+            "packFee": "10",
+            "deliFee": "10",
+            "isNewUser": "1",
+            "orderNum":"QX1314435321"
+        },
+        {
+            "oid": "003",
+            "shopname": "小哥农产品",
+            "state": "2",
+            "goods": [
+                {
+                    "good": {
+                        "gid": "001",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid": "001",
+                    "uid": "001",
+                    "cnum": "1"
+                },
+                {
+                    "good": {
+                        "gid": "002",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid": "001",
+                    "uid": "001",
+                    "cnum": "1"
+                },
+                {
+                    "good": {
+                        "gid": "003",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid": "001",
+                    "uid": "001",
+                    "cnum": "1"
+                }
+            ],
+            "otime": "2020.10.22",
+            "oprice": "40",
+            "goodPrice": "30",
+            "packFee": "10",
+            "deliFee": "10",
+            "isNewUser": "0",
+            "orderNum":"QX1314435321"
+        },
+        {
+            "oid": "004",
+            "shopname": "小哥农产品",
+            "state": "3",
+            "goods": [
+                {
+                    "good": {
+                        "gid": "001",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid": "001",
+                    "uid": "001",
+                    "cnum": "1"
+                },
+                {
+                    "good": {
+                        "gid": "002",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid": "001",
+                    "uid": "001",
+                    "cnum": "1"
+                },
+                {
+                    "good": {
+                        "gid": "003",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid": "001",
+                    "uid": "001",
+                    "cnum": "1"
+                }
+            ],
+            "otime": "2020.10.23",
+            "oprice": "40",
+            "goodPrice": "30",
+            "packFee": "10",
+            "deliFee": "10",
+            "isNewUser": "1",
+            "orderNum":"QX1314435321"
+        },
+        {
+            "oid": "005",
+            "shopname": "小哥农产品",
+            "state": "4",
+            "goods": [
+                {
+                    "good": {
+                        "gid": "001",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid": "001",
+                    "uid": "001",
+                    "cnum": "1"
+                },
+                {
+                    "good": {
+                        "gid": "002",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid": "001",
+                    "uid": "001",
+                    "cnum": "1"
+                },
+                {
+                    "good": {
+                        "gid": "003",
+                        "gname": "松林放牛娃牌自种农家无农残小白菜",
+                        "gprice": "10.00",
+                        "gweight": "500g",
+                        "gpicture": "https://img10.360buyimg.com/n7/jfs/t1/107203/18/5123/681259/5e2ff8ebEfb4518bc/bac69c6034c903a2.png"
+                    },
+                    "cid": "001",
+                    "uid": "001",
+                    "cnum": "1"
+                }
+            ],
+            "otime": "2020.10.24",
+            "oprice": "40",
+            "goodPrice": "30",
+            "packFee": "10",
+            "deliFee": "10",
+            "isNewUser": "1",
+            "orderNum":"QX1314435321"
+        }
+    ]
+}
